@@ -170,7 +170,7 @@
                 <version>3.5.2</version>
                 <configuration>
                     <to>
-                        <image>docker.io/anuj55149/razorpay-${project.artifactId}:${project.version}</image>
+                        <image>docker.io/nagrajh/razorpay-${project.artifactId}:${project.version}</image>
                         <tags>
                             <tag>latest</tag>
                         </tags>
